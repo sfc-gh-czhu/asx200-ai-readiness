@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+data/crawl/
+data/raw_documents.jsonl
+data/enriched_urls.csv
